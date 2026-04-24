@@ -17,7 +17,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "activesupport"
-  spec.add_dependency "erubis"
+  spec.add_dependency "erubi"
   spec.add_dependency "json_schema"
   spec.add_dependency "rack"
   spec.add_dependency "redcarpet"
